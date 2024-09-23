@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Hello from Justinas Plauska!
     </section>
   </body>
 </html>
